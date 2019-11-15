@@ -96,6 +96,7 @@ void example_test(){
     double result3 = cc3->GetResult(300);
     cout<<"result3:"<<result3<<endl;
     
+    
 }
 
 
