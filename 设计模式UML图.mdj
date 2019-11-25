@@ -12815,7 +12815,7 @@
 											"font": "Arial;13;0",
 											"left": 304,
 											"top": -16,
-											"width": 80.9072265625,
+											"width": 86.08592224121094,
 											"height": 13,
 											"text": "(from Model8)"
 										},
@@ -13044,7 +13044,7 @@
 											"font": "Arial;13;0",
 											"left": -32,
 											"top": 48,
-											"width": 80.9072265625,
+											"width": 86.08592224121094,
 											"height": 13,
 											"text": "(from Model8)"
 										},
@@ -13239,7 +13239,7 @@
 											"font": "Arial;13;0",
 											"left": 368,
 											"top": -240,
-											"width": 80.9072265625,
+											"width": 86.08592224121094,
 											"height": 13,
 											"text": "(from Model8)"
 										},
@@ -13434,7 +13434,7 @@
 											"font": "Arial;13;0",
 											"left": -176,
 											"top": -304,
-											"width": 80.9072265625,
+											"width": 86.08592224121094,
 											"height": 13,
 											"text": "(from Model8)"
 										},
@@ -13613,9 +13613,9 @@
 										"$ref": "AAAAAAFugcFtx5Hhm2M="
 									},
 									"font": "Arial;13;0",
-									"left": 530,
+									"left": 528,
 									"top": 246,
-									"width": 54.9072265625,
+									"width": 59.85194396972656,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -13977,9 +13977,9 @@
 										"$ref": "AAAAAAFugcGdu5JXa6w="
 									},
 									"font": "Arial;13;0",
-									"left": 533,
+									"left": 530,
 									"top": 391,
-									"width": 45.51904296875,
+									"width": 51.73994445800781,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -14494,7 +14494,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFugb9i9ZFPS7U="
 							},
-							"name": "SubjectState"
+							"name": "SubjectState",
+							"type": ""
 						}
 					]
 				},
@@ -14557,7 +14558,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFugb9odJF438I="
 							},
-							"name": "ObserverState"
+							"name": "ObserverState",
+							"type": ""
 						}
 					],
 					"operations": [
